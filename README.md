@@ -40,6 +40,6 @@
   
   You will see the web GUI like:
   
-  [image]
+  ![image](./ui.png)
   
   Now enjoy and have fun!
